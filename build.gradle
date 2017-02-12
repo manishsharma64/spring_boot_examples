@@ -17,7 +17,7 @@ apply plugin: 'java'
 apply plugin: 'org.springframework.boot'
 
 springBoot {
-    mainClass = "helloWorld.SampleRestApis"
+    mainClass = "creatingRESTfulHypermediabasedMicroserviceswithSpringBoot.MainController"
 }
 
 sourceCompatibility = 1.8
